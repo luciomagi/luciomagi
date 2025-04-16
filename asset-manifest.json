@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/luciomagi/static/css/main.0d75ef9e.css",
+    "main.js": "/luciomagi/static/js/main.0fdd5e0f.js",
+    "static/media/coverVideo.mp4": "/luciomagi/static/media/coverVideo.42b7f9e30abf5e7b0702.mp4",
+    "static/media/aboutImagen.png": "/luciomagi/static/media/aboutImagen.d5de19561337c278f3c0.png",
+    "index.html": "/luciomagi/index.html",
+    "main.0d75ef9e.css.map": "/luciomagi/static/css/main.0d75ef9e.css.map",
+    "main.0fdd5e0f.js.map": "/luciomagi/static/js/main.0fdd5e0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d75ef9e.css",
+    "static/js/main.0fdd5e0f.js"
+  ]
+}
