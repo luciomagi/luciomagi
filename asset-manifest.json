@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/luciomagi/static/css/main.94a66bd7.css",
-    "main.js": "/luciomagi/static/js/main.6dba5ed3.js",
+    "main.css": "/luciomagi/static/css/main.635c8759.css",
+    "main.js": "/luciomagi/static/js/main.a1a927c4.js",
     "static/media/coverVideo.mp4": "/luciomagi/static/media/coverVideo.f3833313329ce2648989.mp4",
+    "static/media/aboutFront.jpeg": "/luciomagi/static/media/aboutFront.d29e419a6998d7b570d0.jpeg",
+    "static/media/aboutBack.jpeg": "/luciomagi/static/media/aboutBack.2d6c36339da171ee3d8e.jpeg",
     "static/media/aboutImagenLinks.png": "/luciomagi/static/media/aboutImagenLinks.fc315fbc5485c0929643.png",
-    "static/media/aboutImagen.png": "/luciomagi/static/media/aboutImagen.b4d831800a3222ab9c88.png",
     "index.html": "/luciomagi/index.html",
-    "main.94a66bd7.css.map": "/luciomagi/static/css/main.94a66bd7.css.map",
-    "main.6dba5ed3.js.map": "/luciomagi/static/js/main.6dba5ed3.js.map"
+    "main.635c8759.css.map": "/luciomagi/static/css/main.635c8759.css.map",
+    "main.a1a927c4.js.map": "/luciomagi/static/js/main.a1a927c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.94a66bd7.css",
-    "static/js/main.6dba5ed3.js"
+    "static/css/main.635c8759.css",
+    "static/js/main.a1a927c4.js"
   ]
 }
